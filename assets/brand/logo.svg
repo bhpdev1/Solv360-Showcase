@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- Hard neo-brutalist shadow -->
+  <rect x="22" y="22" width="220" height="220" rx="20" fill="#383838" />
+  
+  <!-- Main badge tile on warm cream paper -->
+  <rect x="14" y="14" width="220" height="220" rx="20" fill="#f4efea" stroke="#383838" stroke-width="4.5" />
+  
+  <!-- Subtle inner dashed border -->
+  <rect x="24" y="24" width="200" height="200" rx="14" fill="none" stroke="#e0d9d0" stroke-width="1.5" stroke-dasharray="4 4" />
+
+  <!-- Terminal chevron > in duck orange -->
+  <path d="M48 68 L78 98 L48 128" fill="none" stroke="#ff9538" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Blinking Terminal Cursor in sky blue -->
+  <rect x="92" y="118" width="34" height="10" rx="2" fill="#6fc2ff" stroke="#383838" stroke-width="2" />
+  
+  <!-- Status pulse badge top-right -->
+  <circle cx="198" cy="58" r="8" fill="#ffde00" stroke="#383838" stroke-width="2.5" />
+  <circle cx="198" cy="58" r="4" fill="#383838" />
+
+  <!-- Typography: SOLV 360 -->
+  <g transform="translate(42, 172)">
+    <!-- SOLV text in bold JetBrains Mono / monospace style -->
+    <text x="0" y="32" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="44" font-weight="900" fill="#383838" letter-spacing="-1">SOLV</text>
+    
+    <!-- Canary yellow highlighter marker for 360 -->
+    <rect x="110" y="2" width="68" height="38" rx="4" fill="#ffde00" stroke="#383838" stroke-width="2.5" />
+    
+    <!-- 360 numbers inside marker -->
+    <text x="144" y="30" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="28" font-weight="900" fill="#383838" text-anchor="middle" letter-spacing="1">360</text>
+  </g>
+</svg>
