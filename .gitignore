@@ -1,3 +1,14 @@
 .DS_Store
 Thumbs.db
 *.tmp
+
+# --- Safety baseline (secrets, deps, caches, OS junk) ---
+.env
+.env.*
+.vercel/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+desktop.ini
+!.env.example
