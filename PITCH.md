@@ -98,11 +98,11 @@ Contrairement aux missions de freelance jetables, les défis publics réussis al
 
 ---
 
-## 7. Synthèse & Programme Pilote
+## 7. Synthèse & Programme Bêta
 
 > **Solv360 réconcilie la rapidité d'un hackathon, la rigueur d'un audit de sécurité automatisé et l'agilité d'un réseau mondial de développeurs.**
 >
-> 🚀 **Participer au Programme Pilote** : Demandez votre accès prioritaire sur [https://solv360-showcase.vercel.app](https://solv360-showcase.vercel.app)  
+> 🚀 **Participer au Programme Bêta** : Demandez votre accès prioritaire sur [https://solv360-showcase.vercel.app](https://solv360-showcase.vercel.app)  
 > 🌐 **Site Vitrine Interactif** : [https://solv360-showcase.vercel.app](https://solv360-showcase.vercel.app)  
 > 📂 **Dépôt Public Showcase** : [https://github.com/bhpdev1/Solv360-Showcase](https://github.com/bhpdev1/Solv360-Showcase)  
 > ✉️ **Contact Direct** : contact@solv360.com

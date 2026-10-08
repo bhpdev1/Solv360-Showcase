@@ -10,14 +10,14 @@
 <a href="https://solv360-showcase.vercel.app"><img src="https://img.shields.io/badge/Live%20Showcase-solv360--showcase.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Showcase on Vercel"></a>
 <img src="https://img.shields.io/badge/Escrow-Dual--Rail%20(EUR%20%2F%20USDC)-6fc2ff?style=flat-square" alt="Dual-Rail Escrow">
 <img src="https://img.shields.io/badge/Security%20Audit-Grade%20A%2B%20Automated-22c55e?style=flat-square" alt="Grade A+ Audit">
-<img src="https://img.shields.io/badge/Pilot%20Program-Open%20Waitlist-ffdd00?style=flat-square" alt="Pilot Waitlist">
+<img src="https://img.shields.io/badge/Beta%20Program-Open%20Waitlist-ffdd00?style=flat-square" alt="Beta Waitlist">
 <img src="https://img.shields.io/badge/Turnaround-48h%20Target-ff9538?style=flat-square" alt="48h Target">
 
 <br><br>
 
 <img src="assets/hero.png" alt="Solv360: The morning problem becomes the evening certified tool" width="100%">
 
-<a href="#pitch">Pitch & Vision</a> • <a href="#english">English</a> • <a href="#français">Français</a> • <a href="PITCH.md">📄 Lire le Pitch Complet</a> • <a href="https://solv360-showcase.vercel.app">🚀 Demander un Accès Pilote</a>
+<a href="#pitch">Pitch & Vision</a> • <a href="#english">English</a> • <a href="#français">Français</a> • <a href="PITCH.md">📄 Lire le Pitch Complet</a> • <a href="https://solv360-showcase.vercel.app">🚀 Demander un Accès Bêta</a>
 
 </div>
 
@@ -28,7 +28,7 @@
 >
 > 🌐 **Interactive Live Product**: You can test the full user experience, interactive sandboxes, and multilingual interface directly on our production deployment: **[https://solv360-showcase.vercel.app](https://solv360-showcase.vercel.app)**.
 >
-> 🚀 **Join the Pilot Program**: Request your priority beta invitation directly through the interactive showcase top bar.
+> 🚀 **Join the Beta Program**: Request your priority beta invitation directly through the interactive showcase.
 
 ---
 
@@ -146,7 +146,7 @@ Les outils créés et livrés par la communauté sur le **Hub Solv360** sont qua
 
 ---
 
-### Contact & Programme Pilote
+### Contact & Programme Bêta
 
-- **Showcase Public & Accès Pilote** : [https://solv360-showcase.vercel.app](https://solv360-showcase.vercel.app)
+- **Showcase Public & Accès Bêta** : [https://solv360-showcase.vercel.app](https://solv360-showcase.vercel.app)
 - **Partenariats & Inscriptions Bêta** : contact@solv360.com
