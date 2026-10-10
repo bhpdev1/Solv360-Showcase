@@ -7,11 +7,11 @@
 **Micro-software bounty marketplace with automated security audits and dual-rail escrow.**<br>
 <em>Marketplace de micro-défis logiciels avec audit de sécurité automatisé et séquestre garanti.</em>
 
-<a href="https://solv360-showcase.vercel.app"><img src="https://img.shields.io/badge/Live%20Showcase-solv360--showcase.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Showcase on Vercel"></a>
-<img src="https://img.shields.io/badge/Escrow-Dual--Rail%20(EUR%20%2F%20USDC)-6fc2ff?style=flat-square" alt="Dual-Rail Escrow">
-<img src="https://img.shields.io/badge/Security%20Audit-Grade%20A%2B%20Automated-22c55e?style=flat-square" alt="Grade A+ Audit">
-<img src="https://img.shields.io/badge/Beta%20Program-Open%20Waitlist-ffdd00?style=flat-square" alt="Beta Waitlist">
-<img src="https://img.shields.io/badge/Turnaround-48h%20Target-ff9538?style=flat-square" alt="48h Target">
+<a href="https://solv360-showcase.vercel.app"><img src="https://img.shields.io/badge/live%20demo-Vercel-ffde00?style=flat-square&logo=vercel&logoColor=383838&labelColor=383838" alt="Live demo on Vercel"></a>
+<img src="https://img.shields.io/badge/escrow-dual--rail%20(EUR%20%2F%20USDC)-6fc2ff?style=flat-square&labelColor=383838" alt="Dual-Rail Escrow">
+<img src="https://img.shields.io/badge/security%20audit-grade%20A%2B%20automated-d4f7dc?style=flat-square&labelColor=383838" alt="Grade A+ Audit">
+<img src="https://img.shields.io/badge/beta%20program-open%20waitlist-ffde00?style=flat-square&labelColor=383838" alt="Beta Waitlist">
+<img src="https://img.shields.io/badge/turnaround-48h%20target-ff9538?style=flat-square&labelColor=383838" alt="48h Target">
 
 <br><br>
 
